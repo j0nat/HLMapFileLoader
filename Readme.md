@@ -1,6 +1,6 @@
 # Half-Life .map File Loader
 
-[Map-Files](https://github.com/stefanha/map-files) .Map parser partly ported to C#.
+[Map-Files](https://github.com/stefanha/map-files) .map parser partly ported to C#.
 
 ### Ported
 * Parse .map file
